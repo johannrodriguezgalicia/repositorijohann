@@ -1,0 +1,2 @@
+# repositorijohann
+practica1
